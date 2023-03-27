@@ -900,4 +900,22 @@ picture {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .pro-2 {
+    margin-top: 5em;
+   }
+   .img_1{
+     border-radius: 2em;
+   }
+   
+   .project-img1{
+    box-shadow: 5px 5px #EEEEEE;
+    border-radius: 2em;
+   }
+   .project-img_1{
+    border-radius: 2em;
+   }
+   .pro_img{
+    box-shadow: 5px 5px #EEEEEE
+   }
 }
